@@ -1,0 +1,27 @@
+{
+  "name": "cypress-quete4-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pammmpa/cypress-quete4-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pammmpa/cypress-quete4-git/issues"
+  },
+  "homepage": "https://github.com/pammmpa/cypress-quete4-git#readme",
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {
+    "cypress-downloadfile": "^1.2.1"
+  }
+}
